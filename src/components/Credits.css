@@ -1,0 +1,14 @@
+#credits {
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+    min-height: 50px;
+}
+
+.end-credits {
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    width: 100%;
+    font-size: 13px;
+}

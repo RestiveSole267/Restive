@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
+
+#projects{
+    padding-left: 15%;
+    padding-right: 25%;
+    text-align: left;
+    min-height: 72vh;
+}
+
+.section-header{
+    display: flex;
+    padding-bottom: 35px;
+    width: 100vw;
+}
+  
+.section-title{
+    font-family: "urbanist", sans-serif;
+    color: white;
+    font-size: 46px;
+    font-weight: 700;
+}
+
+.projects {
+    border-spacing: 0 10px;
+    padding-left: 6%;
+}
+
+th {
+    font-family: Arial, sans-serif;
+	vertical-align: top;
+	white-space: nowrap;
+	text-align: left;
+	padding-right: 1em;
+}
+
+th::before {
+	content: "$ ";
+	color: #aaa;
+}
+
+td {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+a {
+	font-weight: bold;
+	color: rgb(202, 224, 188);
+	text-decoration: none;
+}

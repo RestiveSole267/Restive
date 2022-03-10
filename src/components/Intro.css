@@ -1,0 +1,51 @@
+#intro {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 15%;
+    padding-top: 18%;
+    padding-right: 25%;
+    min-height: 72vh;
+}
+
+.Typist {
+    color: white;
+    text-align: center;
+    font-size: 76px;
+    margin-top: -30px;
+}
+
+.Typist .Cursor--blinking {
+    color: #aaa;
+    padding-left: 4px;
+}
+
+.intro-title {
+    font-family: Arial, sans-serif;
+    font-size: 86px;
+}  
+
+.links {
+    width: 245px;
+    max-height: 54px;
+}
+
+.GitHub {
+    padding-right: 4%;
+    color: white;
+}
+
+.YouTube {
+    padding-right: 4%;
+}
+
+.Twitter {
+    padding-right: 4%;
+}
+
+.Discord {
+    padding-right: 4%;
+}
+
+
+

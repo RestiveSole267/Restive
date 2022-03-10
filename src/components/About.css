@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
+
+#about{
+    padding-left: 15%;
+    padding-right: 25%;
+    text-align: left;
+    min-height: 100vh;
+}
+
+.section-header{
+    display: flex;
+    padding-bottom: 45px;
+    width: 100vw;
+}
+  
+span.section-title{
+    font-family: "Courier New", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(161, 223, 233);
+}
+
+span.section-title::before{
+    content: "~ ";
+	color: #a8b2d1;
+}
+  
+
+.about-content{
+    display: flex;
+    flex-direction: row;
+}
+  
+
+.about-desc{
+    font-family: Arial, sans-serif;
+    color: #FAF9F4;
+    max-width: 700px;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding-left: 6%;
+}
+  
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+  
+p{
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+  
+p+p {
+    margin-top: 8px;
+}
+
+.about-image{
+    padding-left: 40px;
+}
+
+.Restive {
+    max-width: 240px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 6px 13px 23px -5px rgb(0 0 0 / 0.46);
+    border: 2px;
+    border-color: rgb(161, 223, 233);
+    border-style: solid;
+}
+
+.Restive {
+    vertical-align: middle;
+}
+
+.about-image:hover {
+    transform: translateY(-7px);
+}
