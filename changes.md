@@ -7,4 +7,7 @@
 | ![#0000FF](https://via.placeholder.com/10/8892b0?text=+) `Blue - #0000FF`      | Sound/Music            |
 | ![#00FF00](https://via.placeholder.com/10/a8b2d1?text=+) `Green - #00FF00`     | Side Note              |
 
-<p align="center">Introduction</p>
+<p align="center">INTRODUCTION</p>
+<p style="color:#ff0000;">"I've been recently trying to find calm in my own storm."</p>
+<p style="color:#0000FF;">Halley's Comet - Billie Eilish, Fades in</p>
+
