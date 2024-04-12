@@ -81,6 +81,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 | Lightest Rep  | ![#feeded](https://via.placeholder.com/10/feeded?text=+) `#feeded` |
 | Libertarian   | ![#ad8a51](https://via.placeholder.com/10/ad8a51?text=+) `#ad8a51` |
 | Light Lib     | ![#f4ead9](https://via.placeholder.com/10/f4ead9?text=+) `#f4ead9` |
+| Lightest Lib  | ![#f7f2e8](https://via.placeholder.com/10/f7f2e8?text=+) `#f7f2e8` |
 | Independent   | ![#8357aa](https://via.placeholder.com/10/8357aa?text=+) `#8357aa` |
 | Light Ind     | ![#cab8d8](https://via.placeholder.com/10/cab8d8?text=+) `#cab8d8` |
 | Lightest Ind  | ![#cab8d8](https://via.placeholder.com/10/cab8d8?text=+) `#cab8d8` |
