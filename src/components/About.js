@@ -2,7 +2,7 @@ import React from "react";
 
 import "./About.css";
 import FadeInSection from "./FadeInSection";
-import Restive from "./assets/restive2.png";
+import Restive from "./assets/restive3.jpg";
 
 class About extends React.Component {
     constructor() {
@@ -27,7 +27,7 @@ class About extends React.Component {
                     </div>
                     <div class="about-content">
                         <div class="about-desc">
-                            <p>Hi, I'm Cameron. I'm currently a first year Computer Science major at <a href='https://www.kennesaw.edu/about/index.php'>Kennesaw State University</a>. I currently have experience in programming languages such as <b>Python</b>, <b>CSS</b>, <b>HTML</b>, and <b>Javascript</b>.</p>
+                            <p>Hi, I'm Cameron. I'm currently a second year Computer Science major at <a href='https://www.kennesaw.edu/about/index.php'>Kennesaw State University</a>. I currently have experience in programming languages such as <b>Python</b>, <b>CSS</b>, <b>HTML</b>, and <b>Javascript</b>.</p>
                             <p>My mama constantly told me that I was always intuitive thinker, someone who could quickly generate creative thoughts, and someone who was skilled with their hands. I grew up around computers for the most of my childhood, I started my first YouTube channel, <a href='https://www.youtube.com/channel/UCxwa8a5iSx22UUcnQmCp1Yg'>RestiveSole267</a>, in 2014. Later, I launched <a href='https://www.youtube.com/c/RestiveToo'>RestiveToo</a>, in 2016. When I reached eleven, I first learned how to program in Python, which most of my Discord Clients are programmed in Python.</p>
                             <p>Outside of studying or working, I typically spend my free time with friends, editing videos, playing video games, streaming, working out, or watching shows on Netflix, Hulu, or YouTube.</p>
                         </div>

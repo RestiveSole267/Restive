@@ -31,8 +31,8 @@ class Projects extends React.Component {
                       <td>A hobby x86 UNIX-like operating system. This project is still under development.</td>
                     </tr>
                     <tr>
-                      <th><a href='https://github.com/RestiveSole267/archivist'>archivist</a></th>
-                      <td>A static generated website for archive history important documents (constitution, charters, standing rules), legislation, executive orders, etc.</td>
+                      <th><a href='https://github.com/RestiveSole267/anctimes'>anctimes</a></th>
+                      <td>"Democracy At Stake"; The Anchorage Times is a news sources that covers news & elections from Anchorage (Rocky Shores), Ridgeway, and Harrison. Not affiliated with the New York Times.</td>
                     </tr>
                     <tr>
                       <th><a href='https://github.com/RestiveSole267/Electware'>electware</a></th>
