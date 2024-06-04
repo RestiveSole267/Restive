@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="https://prnt.sc/n2f1L7pAYvvW"/>
+</p>
 <h1 align="center">
   restive.me - v2
 </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
