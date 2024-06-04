@@ -1,11 +1,11 @@
 #intro {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    padding-left: 15%;
+    align-items: center;
+    padding-left: 20%;
     padding-top: 18%;
     padding-right: 25%;
-    min-height: 72vh;
+    min-height: 55vh;
 }
 
 .Typist {
@@ -22,30 +22,9 @@
 
 .intro-title {
     font-family: Arial, sans-serif;
-    font-size: 86px;
+    font-size: 60px;
 }  
 
-.links {
-    width: 245px;
-    max-height: 54px;
-}
-
-.GitHub {
-    padding-right: 4%;
+.intro-desc{
     color: white;
 }
-
-.YouTube {
-    padding-right: 4%;
-}
-
-.Twitter {
-    padding-right: 4%;
-}
-
-.Discord {
-    padding-right: 4%;
-}
-
-
-

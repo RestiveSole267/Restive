@@ -1,0 +1,45 @@
+#navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: .5%;
+    padding-bottom: .5%;
+    padding-left: 8%;
+}
+
+.left-side{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 50vh;
+}
+
+.restive{
+    font-size: 20px;
+    padding-bottom: .5%;
+    color: white;
+}
+
+.home, .about, .experience, .project{
+    padding-top: 1.5%;
+    font-size: 13.5px;
+    color: white;
+}
+
+.restive, .home, .experience, .about{
+    padding-right: 5%;
+    max-width: 50%;
+}
+.right-side{
+    display: flex;
+    text-align: right;
+    padding-left: 55%;
+}
+
+.email{
+    color: white;
+}
+.github, .linkedin, .youtube{
+    padding-left: 10%;
+    color: white;
+}
