@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/restive/static/css/main.a83bff59.css",
-    "main.js": "/restive/static/js/main.91b5e807.js",
+    "main.css": "/restive/static/css/main.254ddfa7.css",
+    "main.js": "/restive/static/js/main.eaa3cbaf.js",
     "static/js/787.f83a8465.chunk.js": "/restive/static/js/787.f83a8465.chunk.js",
     "static/media/restive3.jpg": "/restive/static/media/restive3.7c2ba85916c002a239b7.jpg",
-    "static/media/discord-icon.svg": "/restive/static/media/discord-icon.0f6544596adae9155c1183e2ba26a5f7.svg",
-    "static/media/twitter-icon.svg": "/restive/static/media/twitter-icon.1cda45f0604796680141730c659f4ba6.svg",
-    "static/media/youtube-icon.svg": "/restive/static/media/youtube-icon.99896373071d7c976914cae992303d37.svg",
-    "static/media/github-icon.svg": "/restive/static/media/github-icon.92bfe46b228bf343b27aa0ba944ad0c9.svg",
     "index.html": "/restive/index.html",
-    "main.a83bff59.css.map": "/restive/static/css/main.a83bff59.css.map",
-    "main.91b5e807.js.map": "/restive/static/js/main.91b5e807.js.map",
+    "main.254ddfa7.css.map": "/restive/static/css/main.254ddfa7.css.map",
+    "main.eaa3cbaf.js.map": "/restive/static/js/main.eaa3cbaf.js.map",
     "787.f83a8465.chunk.js.map": "/restive/static/js/787.f83a8465.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a83bff59.css",
-    "static/js/main.91b5e807.js"
+    "static/css/main.254ddfa7.css",
+    "static/js/main.eaa3cbaf.js"
   ]
 }
