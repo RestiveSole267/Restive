@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://prnt.sc/n2f1L7pAYvvW"/>
+  <img src="https://github.com/RestiveSole267/restive/blob/main/public/favicon.ico"/>
 </p>
 <h1 align="center">
   restive.me - v2
