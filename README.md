@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/RestiveSole267/restive/blob/main/public/favicon.ico"/>
-</p>
 <h1 align="center">
   restive.me - v2
 </h1>
